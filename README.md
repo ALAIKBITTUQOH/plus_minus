@@ -3,8 +3,9 @@ Nim   : 23422033 <br>
 Kelas : TIF22A
 
 
+
 # Tugas
-Menyelesaikan problem pada HackerRank tentang plus minus <br>
+Menyelesaikan problem pada HackerRank tentang plus minus yang ada di link HackerRank<br>
 (https://www.hackerrank.com/challenges/plus-minus/problem) <br>
 dengan cetak rasio dari nilai-nilai positif, negatif, dan nol dalam array. <br>
 Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desimal. Fungsi tidak boleh mengembalikan nilai.
