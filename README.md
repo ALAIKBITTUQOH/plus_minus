@@ -1,11 +1,11 @@
-# PlusMinus
 Nama  : ALAIK BITTUQOH <br>
 Nim   : 23422033 <br>
 Kelas : TIF22A
 
 
 # Tugas
-Menyelesaikan problem pada HackerRank tentang plus minus(https://www.hackerrank.com/challenges/plus-minus/problem) <br>
+Menyelesaikan problem pada HackerRank tentang plus minus <br>
+(https://www.hackerrank.com/challenges/plus-minus/problem) <br>
 dengan cetak rasio dari nilai-nilai positif, negatif, dan nol dalam array. <br>
 Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desimal. Fungsi tidak boleh mengembalikan nilai.
 
